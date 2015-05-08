@@ -1,0 +1,13 @@
+<!--Alonso-->
+
+<Alloy>
+	<!--Cant see this View because the views are above this window-->
+	<Window class="container">
+		<!--pulls the data from the widget folder in the application-->
+		<Require type="widget" src="SlidingMenu" id="drawermenu"/>
+
+		
+	</Window>
+</Alloy>
+
+<!--Alonso-->

@@ -1,0 +1,34 @@
+//<!--Alonso-->
+
+
+"#mainView":{
+	layout: 'vertical',
+	backgroundColor: '#253640'
+},
+"#mainTopBar":{
+	width: Ti.UI.FILL,
+	height: "60dp",
+	backgroundColor: '#0096d6',
+	layout: 'horizontal'
+},
+"#menuButton":{
+	width: "60dp",
+	height: "60dp"
+},
+"#header" : {
+	color : '#8C000000',
+	font : {
+		fontSize : 28,
+		fontWeight : 'bold',		
+	},
+	left : '47dp',
+},
+"#logoutBtn" : {
+	top : '400dp',
+	width : '70%',
+	height : '52dp',
+	color : 'white'
+}
+
+
+//<!--Alonso-->

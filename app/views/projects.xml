@@ -1,0 +1,26 @@
+<!--Leeland-->
+<Alloy>
+	<View id="mainView">
+			
+		<!--This is the blue status bar at the top of the mainView screen-->
+		<View id="mainTopBar">
+			
+			<View id="menuButton"/><!--This is the button for the menuView-->			
+			<Label id="header">Projects</Label>
+		</View>
+		<View id="buttonView">
+			
+			<Button id="button1" title="Project 1" top="110" width="100" height="50" right="240" />
+			<Button id="button2" title="Project 2" top="110" width="100" height="50" right="20" />
+			<Button id="button3" title="Project 3" top="170" width="100" height="50" right="240" />
+			<Button id="button4" title="Project 4" top="170" width="100" height="50" right="20" />
+			<Button id="button5" title="Project 5" top="230" width="100" height="50" right="240" />
+			<Button id="button6" title="Project 6" top="230" width="100" height="50" right="20" />
+
+		</View>
+			
+
+		
+	</View>
+</Alloy>
+<!--Leeland-->
