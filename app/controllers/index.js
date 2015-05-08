@@ -186,7 +186,7 @@ var configView=controls.getConfigView();
 
 
 
-
+//Jack's Code
 //settings view and controllers-----------------------------------------------------------------------------------------------------------------------------------
 
 //add menu view to ConfigView exposed by widget
@@ -355,7 +355,7 @@ industry.menuButton.addEventListener('click',function(){
 //end of the industry view----------------------------------------------------------------------------------------------------------------------------------------
 
 
-
+//Jack's Code
 //beginning of the contacts view and controller-------------------------------------------------------------------------------------------------------------------
 contacts.menuButton.add(controls.getMenuButton({
                 h: '60',
@@ -574,7 +574,7 @@ menuView.menuTable.addEventListener('click',function(e){
     	}
     }
     //this is the event listener for the contacts
-    
+
     if (e.rowData.id==="row5"){
     	if (activeView!=5){
     		//removes all of the other views from the screen.
