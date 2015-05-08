@@ -128,7 +128,12 @@ var section = Ti.UI.createListSection();
  var data = [];
  var sectionViews = [];
 
-var eventList = ['554c492a4fe125098c09187b'];
+var eventList = ['554c987fde9cf34db118ba47', 
+				 '554c98b308c91edb111896a1', 
+				 '554c98ec7eead2291707abdf', 
+				 '554c9939a598a109750c3022', 
+				 '554c999808c91edb11189d4f', 
+				 '554c99f308c91edb11189e37'];
 
 
 for ( var i = 0; i < eventList.length; i++) {
@@ -450,7 +455,10 @@ var section1 = Ti.UI.createListSection();
  var data1 = [];
  var sectionViews1 = [];
 
-var userList = ['554c490b7eead2291705f43c'];
+var userList = ['554c96f0a598a109750c20bb',
+				'554c972a08c91edb091796f7', 
+				'554c9760a598a109750c2113', 
+				'554c9797ac4547b90119dd45'];
 
 
 for ( var i = 0; i < userList.length; i++) {
