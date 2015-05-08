@@ -455,10 +455,10 @@ var section1 = Ti.UI.createListSection();
  var data1 = [];
  var sectionViews1 = [];
 
-var userList = ['554c96f0a598a109750c20bb',
-				'554c972a08c91edb091796f7', 
-				'554c9760a598a109750c2113', 
-				'554c9797ac4547b90119dd45'];
+var userList = ['554ca331ac4547b9011a365e',
+				'554ca262ac4547b9011a3051', 
+				'554ca37da598a109750c6fa7', 
+				'554ca3a9a598a1097f0b9792'];
 
 
 for ( var i = 0; i < userList.length; i++) {
