@@ -73,7 +73,7 @@ exports.definition = {
         });
       },
       /**
-       *
+       *Leeland
        */
       authenticated : function() {
         var cloud = this.config.Cloud;
