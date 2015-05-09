@@ -1,5 +1,5 @@
 <!--Alonso-->
-
+<!--used the widget code from https://github.com/ricardoalcocer/alloy-widget-drawermenu-->
 <Alloy>
 	<!--communicates with the widget.js code-->
 	<View id="drawermenuview"></View>
