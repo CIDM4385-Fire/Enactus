@@ -1,4 +1,4 @@
-//Bryan's code.
+//Bryan Leeland code.
 exports.definition = {
 	config: {
 
