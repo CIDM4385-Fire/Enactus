@@ -1,5 +1,6 @@
 <!--Alonso-->
-<!--used the widget code from https://github.com/ricardoalcocer/alloy-widget-drawermenu-->
+<!--used the widget code from https://github.com/ricardoalcocer/alloy-widget-drawermenu
+it was extremely useful for making our app more Aesthetically appealing.-->
 <Alloy>
 	<!--communicates with the widget.js code-->
 	<View id="drawermenuview"></View>

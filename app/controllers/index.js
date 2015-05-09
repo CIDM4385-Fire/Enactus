@@ -1,5 +1,6 @@
 //<!--Alonso-->
 
+//pulls from the controls.js
 var controls=require('controls');
 
 var menuView=controls.getMenuView();
@@ -8,10 +9,12 @@ var mainView=controls.getMainView();
 //main view and menu view controllers and information.-----------------------------------------------------------------------------------------
 //pulls the information from the 'lib' folder.
 
+//Bryan's code.
 var Cloud = require('ti.cloud');
 Cloud.debug = true;
+//end of Bryan's code.
 
-// get main and menu view as objects. pulls from the controls.js
+
 
 //attach event listener to menu button
 //goes to the mainView function in the controls.js
@@ -235,6 +238,7 @@ projects.menuButton.addEventListener('click',function(){
 	$.drawermenu.menuOpen=!$.drawermenu.menuOpen;
 }); // method is exposed by widget
 
+//Leelands code.
 projects.button1.addEventListener('click', doClick1);
 projects.button2.addEventListener('click', doClick2);
 projects.button3.addEventListener('click', doClick3);
@@ -316,7 +320,7 @@ function doClick6() {
 		win.add(info);
 		win.open();
 };
-
+//end Leelands code.
 //end of project view---------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -491,7 +495,7 @@ var scrollableView1 = Ti.UI.createScrollableView({
  sectionView1 = Ti.UI.createView();
  sectionView1.add(scrollableView1);
  contacts.mainView.add(sectionView1);
- 
+ //end of Jacks code
 //end of the contacts view and controller and information--------------------------------------------------------------------------------------------------------
 
 

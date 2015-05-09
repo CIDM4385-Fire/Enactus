@@ -1,6 +1,6 @@
 var args = arguments[0] || {};
 
-
+//Bryan's code
 $.doLoginBtn.addEventListener('click', doLoginBtnClicked);
 $.cancelLoginBtn.addEventListener('click', cancelLoginBtn);
 
